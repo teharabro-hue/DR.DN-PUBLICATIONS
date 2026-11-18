@@ -1,0 +1,6 @@
+{
+  "name": "DR. DN WICKRAMASINGHE",
+  "description": "Literary Reading Room & Book Archive by Dr. DN Wickramasinghe — Featuring WARUNI SANHITHAKA MALAWA and an interactive online book reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
